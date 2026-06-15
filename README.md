@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @airaola25
-- 👀 I’m interested in Web development, specially with Django and React, Machine Leraning and Artificial Intelligence.  
+- 👀 I’m interested in Web development, specially with Django and React, Machine Learning and Artificial Intelligence.  
 - 🌱 I’m currently learning Django and React
-- 💞️ I’m looking to collaborate on challenging projects
 - 📫 How to reach me: alexiraola25@gmail.com
 
 <!---
